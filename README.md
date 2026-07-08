@@ -353,14 +353,21 @@ I have been actively building full stack projects focused on real-world academic
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PritKoradiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PritKoradiya&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya GitHub Profile Summary" />
 
 <br/>
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritKoradiya&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya Repositories Per Language" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya Most Commit Language" />
+
+<br/>
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya GitHub Stats" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PritKoradiya&theme=tokyonight&utcOffset=5.5" alt="Pritkumar Koradiya Productive Time" />
 
 </div>
 
@@ -370,9 +377,11 @@ I have been actively building full stack projects focused on real-world academic
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PritKoradiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=PritKoradiya&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="Pritkumar Koradiya GitHub Trophies" />
 
 </div>
+
+---
 
 ---
 
