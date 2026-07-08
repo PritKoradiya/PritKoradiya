@@ -46,6 +46,10 @@
 <br/>
 <br/>
 
+<img width="70%" src="https://streak-stats.demolab.com/?user=PritKoradiya&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5&sideLabels=7DCFFF&dates=9AA5CE&currStreakNum=C0CAF5&sideNums=C0CAF5" alt="Pritkumar Koradiya GitHub Streak" />
+<br/>
+<br/>
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya Repositories Per Language" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya Most Commit Language" />
