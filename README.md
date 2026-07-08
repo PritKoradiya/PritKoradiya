@@ -373,15 +373,22 @@ I have been actively building full stack projects focused on real-world academic
 
 ---
 
-## GitHub Trophies
+## GitHub Highlights
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=PritKoradiya&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="Pritkumar Koradiya GitHub Trophies" />
+<img src="https://img.shields.io/badge/Profile%20README-Active-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/MERN%20Stack-Full%20Stack%20Developer-4F46E5?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Builder-Gemini%20API-6D28D9?style=for-the-badge&logo=google&logoColor=white" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/DSA%20Practice-LeetCode%20Journey-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-GitHub%20Projects-312E81?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Student%20Developer-P%20P%20Savani%20University-2563EB?style=for-the-badge&logo=graduationcap&logoColor=white" />
 
 </div>
-
----
 
 ---
 
