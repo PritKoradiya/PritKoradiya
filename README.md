@@ -397,7 +397,6 @@ I have been actively building full stack projects focused on real-world academic
 </picture>
 
 </div>
-
 ---
 
 ## Current Focus
