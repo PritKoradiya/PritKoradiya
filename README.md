@@ -37,6 +37,45 @@
 
 ---
 
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PritKoradiya/PritKoradiya/output/github-contribution-grid-snake-purple.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PritKoradiya/PritKoradiya/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/PritKoradiya/PritKoradiya/output/github-contribution-grid-snake-purple.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya GitHub Profile Summary" />
+
+<br/>
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya Repositories Per Language" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya Most Commit Language" />
+
+<br/>
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya GitHub Stats" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PritKoradiya&theme=tokyonight&utcOffset=5.5" alt="Pritkumar Koradiya Productive Time" />
+
+</div>
+
+---
+
 ## About Me
 
 I am **Pritkumar Koradiya**, a **Computer Engineering student** and **Full Stack Developer** focused on building practical, scalable, and recruiter-ready software products.
@@ -85,22 +124,6 @@ I am currently building projects that combine **software engineering**, **AI ass
 ### Cloud, DevOps & Tooling
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,docker" />
-
-</div>
-
----
-
-## AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|---:|---|
-| AI-Powered Web Applications | Intermediate | Built AI-based productivity features using Gemini API and modern full stack architecture |
-| Prompt Engineering | Intermediate | Designed structured prompts for task planning, deadline prioritization, and smart study assistance |
-| Gemini API Integration | Intermediate | Integrated AI responses into user-facing workflows with practical use cases |
-| Data-Driven Features | Beginner to Intermediate | Working with MongoDB-based task, user, and progress data |
-| Intelligent Automation | Beginner to Intermediate | Exploring AI assistants, recommendation flows, and productivity automation |
 
 </div>
 
@@ -240,6 +263,79 @@ This repository reflects my commitment to improving problem-solving skills, stre
 
 ---
 
+## AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|---:|---|
+| AI-Powered Web Applications | Intermediate | Built AI-based productivity features using Gemini API and modern full stack architecture |
+| Prompt Engineering | Intermediate | Designed structured prompts for task planning, deadline prioritization, and smart study assistance |
+| Gemini API Integration | Intermediate | Integrated AI responses into user-facing workflows with practical use cases |
+| Data-Driven Features | Beginner to Intermediate | Working with MongoDB-based task, user, and progress data |
+| Intelligent Automation | Beginner to Intermediate | Exploring AI assistants, recommendation flows, and productivity automation |
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+</a>
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+</a>
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/PritKoradiya/leetcode-journey">
+  <img src="https://img.shields.io/badge/My%20DSA%20Repository-LeetCode%20Journey-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## GitHub Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Profile%20README-Active-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/MERN%20Stack-Full%20Stack%20Developer-4F46E5?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Builder-Gemini%20API-6D28D9?style=for-the-badge&logo=google&logoColor=white" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/DSA%20Practice-LeetCode%20Journey-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-GitHub%20Projects-312E81?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Student%20Developer-P%20P%20Savani%20University-2563EB?style=for-the-badge&logo=graduationcap&logoColor=white" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PritKoradiya&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&radius=14" width="100%" alt="Pritkumar Koradiya Contribution Activity Graph" />
+
+</div>
+
+---
+
 ## Experience
 
 ### Full Stack Developer — Academic & Project-Based Engineering  
@@ -321,100 +417,6 @@ I have been actively building full stack projects focused on real-world academic
 
 ---
 
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/PritKoradiya/leetcode-journey">
-  <img src="https://img.shields.io/badge/My%20DSA%20Repository-LeetCode%20Journey-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya GitHub Profile Summary" />
-
-<br/>
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya Repositories Per Language" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya Most Commit Language" />
-
-<br/>
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PritKoradiya&theme=tokyonight" alt="Pritkumar Koradiya GitHub Stats" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PritKoradiya&theme=tokyonight&utcOffset=5.5" alt="Pritkumar Koradiya Productive Time" />
-
-</div>
-
----
-
-## GitHub Highlights
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Profile%20README-Active-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/MERN%20Stack-Full%20Stack%20Developer-4F46E5?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Builder-Gemini%20API-6D28D9?style=for-the-badge&logo=google&logoColor=white" />
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/DSA%20Practice-LeetCode%20Journey-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20Source-GitHub%20Projects-312E81?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Student%20Developer-P%20P%20Savani%20University-2563EB?style=for-the-badge&logo=graduationcap&logoColor=white" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PritKoradiya&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&radius=14" width="100%" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PritKoradiya/PritKoradiya/output/github-contribution-grid-snake-purple.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PritKoradiya/PritKoradiya/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/PritKoradiya/PritKoradiya/output/github-contribution-grid-snake-purple.svg" width="100%" />
-</picture>
-
-</div>
----
-
 ## Current Focus
 
 ```yaml
@@ -443,35 +445,3 @@ Open To:
   - Full Stack Developer Roles
   - AI-Integrated Web Projects
   - Open Source Collaboration
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:mr.rockstar822@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/prit-koradiya">
-  <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/PritKoradiya">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/PritKoradiya">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### “Engineering clean, practical, and intelligent software solutions for real-world problems.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7C3AED,45:4F46E5,100:0D1117" width="100%" />
-
-</div>
