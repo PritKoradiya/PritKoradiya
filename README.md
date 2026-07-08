@@ -353,14 +353,14 @@ I have been actively building full stack projects focused on real-world academic
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PritKoradiya&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&text_color=E6EDF3&icon_color=8B5CF6&bg_color=0D1117&rank_icon=github&border_radius=14" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PritKoradiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=PritKoradiya&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=14" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PritKoradiya&theme=tokyonight&hide_border=true" />
 
 <br/>
 <br/>
 
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritKoradiya&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=E6EDF3&bg_color=0D1117&border_radius=14" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritKoradiya&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -370,7 +370,7 @@ I have been actively building full stack projects focused on real-world academic
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PritKoradiya&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=PritKoradiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -390,7 +390,11 @@ I have been actively building full stack projects focused on real-world academic
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PritKoradiya/PritKoradiya/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PritKoradiya/PritKoradiya/output/github-contribution-grid-snake-purple.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PritKoradiya/PritKoradiya/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/PritKoradiya/PritKoradiya/output/github-contribution-grid-snake-purple.svg" width="100%" />
+</picture>
 
 </div>
 
